@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="open_bt">打开蓝牙</string>
+    <string name="search_bt">搜索设备</string>
+    <string name="connect_state">连接状态</string>
+    <string name="send_msg">发送消息</string>
+    <string name="connecting">正在连接</string>
+</resources>
